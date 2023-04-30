@@ -6,6 +6,7 @@ It's just a simple crud made in AdonisJs Api for testing purposes. Also uses Pos
 
 You must set a file ```.env``` with the example file and run the following command to migrate with PostgreSQL: ```adonis migration:run```.
 Run ```npm i``` to install the packages and ```npm start``` to start the project.
+Obs: You need to install Adonisjs cli to use ```adonis``` command. To install run the command ```npm install -g @adonisjs/cli```
 
 ## Endpoints
 
